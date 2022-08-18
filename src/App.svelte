@@ -166,7 +166,7 @@
 		</table>
 	</section>
 
-	<p>This calculator was coded by <a href="https://twitter.com/bothness" target="_blank">Ahmad Barclay</a>. You can find the <a href="https://github.com/bothness/energy-calculator" target="_blank">source code here</a>.</p>
+	<p>This calculator was coded by <a href="https://twitter.com/bothness" target="_blank">Ahmad Barclay</a>. You can find the <a href="https://github.com/bothness/energy-calc/" target="_blank">source code here</a>.</p>
 </main>
 
 <style>
